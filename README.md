@@ -12,10 +12,11 @@ The analysis notebook is located in the notebooks folder.
 
 Supporting scripts and helper functions are placed in the src directory 
 
-Data access requires the official NFL Big Data Bowl tracking dataset, available through Kaggle.
-
 To reproduce the results, open and run:
 notebooks/patience-score-submission.ipynb
+After, you need to download the Dataset we used:
+It is available as a GitHub release in this repository or through the link below
+[Download FINISHED_MasterSheet.1.xlsx](https://github.com/lowea17/NFL-Big-Data-Bowl-2026-Patience-Score-Code-/releases/latest)
 -----------------------------------------------------------------------------------------------------------
 Abstract
 

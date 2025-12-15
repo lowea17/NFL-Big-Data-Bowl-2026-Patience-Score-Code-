@@ -2,6 +2,7 @@ Patience Score
 A Tracking-Based Metric for Defensive Discipline in Downfield Pass Coverage
 
 Big Data Bowl 2026 — University Track
+
 -------------------------------------------------------------------------------------------------------------------------------
 Code
 
@@ -20,6 +21,7 @@ by clicking "add input" and naming it full-dataset, then uploading the file into
 
 The file is available as a GitHub release in this repository or through the link below
 [Download FINISHED_MasterSheet.1.xlsx](https://github.com/lowea17/NFL-Big-Data-Bowl-2026-Patience-Score-Code-/releases/latest)
+
 -------------------------------------------------------------------------------------------------------------------------------
 Abstract
 
@@ -43,16 +45,14 @@ cornerbacks of 2023, reinforces that Patience Score reflects real, film-supporte
 
 We view Patience Score as a step toward evaluating coverage technique directly from tracking data, offering 
 coaches, analysts, and researchers a new lens into defensive movement quality during the ball-in-air phase.
--------------------------------------------------------------------------------------------------------------------------------
-Links
-Kaggle Notebook (Full Submission): link added before deadline
-Video Explanation: to be added
+
 -------------------------------------------------------------------------------------------------------------------------------
 Citation
 If you use or reference this work, please cite:
 
 Patience Score: A Motion-Based Metric for Defensive Discipline in Downfield Pass Plays.
-Andrew Lowe, Big Data Bowl 2026 — University Track.
+Andrew Lowe, AJ Kurke, Big Data Bowl 2026 — University Track.
+
 -------------------------------------------------------------------------------------------------------------------------------
 Contact
 For questions or collaboration:

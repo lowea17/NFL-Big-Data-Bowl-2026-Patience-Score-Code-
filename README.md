@@ -14,9 +14,11 @@ Supporting images and documents used can be found in the other directories inclu
 
 To reproduce the results, open and run in Kaggle:
 notebooks/patience-score-submission.ipynb
+
 Before running, you need to download the Dataset we used and upload it into a created dataset in your Kaggle Workbook 
-by clicking "add input" and naming it full-dataset, then uploading the file into it:
-The dataset is available as a GitHub release in this repository or through the link below
+by clicking "add input" and naming it full-dataset, then uploading the file into it.
+
+The file is available as a GitHub release in this repository or through the link below
 [Download FINISHED_MasterSheet.1.xlsx](https://github.com/lowea17/NFL-Big-Data-Bowl-2026-Patience-Score-Code-/releases/latest)
 -------------------------------------------------------------------------------------------------------------------------------
 Abstract

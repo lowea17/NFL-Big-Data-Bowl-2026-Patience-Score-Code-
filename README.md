@@ -2,7 +2,6 @@ Patience Score
 A Tracking-Based Metric for Defensive Discipline in Downfield Pass Coverage
 
 Big Data Bowl 2026 — University Track
-
 -------------------------------------------------------------------------------------------------------------------------------
 Code
 

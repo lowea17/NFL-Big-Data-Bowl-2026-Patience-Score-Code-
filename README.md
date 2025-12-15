@@ -2,7 +2,7 @@ Patience Score
 A Tracking-Based Metric for Defensive Discipline in Downfield Pass Coverage
 
 Big Data Bowl 2026 — University Track
------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 Code
 
 This repository contains the implementation of the Patience Score, a motion-based metric designed to 
@@ -10,14 +10,15 @@ quantify how long a defender delays their directional reaction toward the ball a
 
 The analysis notebook is located in the notebooks folder.
 
-Supporting scripts and helper functions are placed in the src directory 
+Supporting images and documents used can be found in the other directories included in this repository.
 
-To reproduce the results, open and run:
+To reproduce the results, open and run in Kaggle:
 notebooks/patience-score-submission.ipynb
-After, you need to download the Dataset we used:
-It is available as a GitHub release in this repository or through the link below
+Before running, you need to download the Dataset we used and upload it into a created dataset in your Kaggle Workbook 
+by clicking "add input" and naming it full-dataset, then uploading the file into it:
+The dataset is available as a GitHub release in this repository or through the link below
 [Download FINISHED_MasterSheet.1.xlsx](https://github.com/lowea17/NFL-Big-Data-Bowl-2026-Patience-Score-Code-/releases/latest)
------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 Abstract
 
 Patience is a core defensive trait on downfield pass plays. When the ball is released, defenders face a 
@@ -40,17 +41,17 @@ cornerbacks of 2023, reinforces that Patience Score reflects real, film-supporte
 
 We view Patience Score as a step toward evaluating coverage technique directly from tracking data, offering 
 coaches, analysts, and researchers a new lens into defensive movement quality during the ball-in-air phase.
-------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 Links
 Kaggle Notebook (Full Submission): link added before deadline
 Video Explanation: to be added
-------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 Citation
 If you use or reference this work, please cite:
 
 Patience Score: A Motion-Based Metric for Defensive Discipline in Downfield Pass Plays.
 Andrew Lowe, Big Data Bowl 2026 — University Track.
-------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 Contact
 For questions or collaboration:
 

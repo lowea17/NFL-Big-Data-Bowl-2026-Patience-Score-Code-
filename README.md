@@ -58,5 +58,8 @@ Andrew Lowe
 GitHub: https://github.com/lowea17
 LinkedIn: https://www.linkedin.com/in/andrew-lowe-9abb79324/
 
+AJ Kurke
+LinkedIn: Andrew (A.J.) Kurke | LinkedIn
+
 
 
